@@ -13,7 +13,7 @@ Celestial Visions is a parallax scrolling web experience built with HTML, CSS, a
 
 - **HTML5:** For the page structure.
 - **CSS3:** For layout, styling, and responsive design.
-- **Vanilla JavaScript:** For implementing the parallax effects and transitions.
+- **JavaScript:** For implementing the parallax effects and transitions.
 
 ## Files
 
